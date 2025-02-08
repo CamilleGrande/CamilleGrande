@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning to code for my Master's thesis, and working on Reinforcement Learning !
+
+To reach me, email me at camille.grande.etu@univ-lille.fr, I'd be happy to chat and take your advice !
