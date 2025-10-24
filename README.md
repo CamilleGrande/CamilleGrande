@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning to code for my Master's thesis, and working on Reinforcement Learning !
+I'm a 1st Year PhD student at the University of Toronto, and trainee at the Center for Addiction and Mental Health.
 
-To reach me, email me at camille.grande.etu@univ-lille.fr, I'd be happy to chat and take your advice !
+To reach me, email me at camille.grande@mail.utoronto.ca, I'd be happy to chat and take your advice !
